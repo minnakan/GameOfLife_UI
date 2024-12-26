@@ -1,0 +1,13 @@
+
+<RCC>
+<qresource>
+<file>GameOfLife_UI.qmlproject</file>
+<file>GameOfLife_UI/Constants.qml</file>
+<file>GameOfLife_UI/EventListModel.qml</file>
+<file>GameOfLife_UI/EventListSimulator.qml</file>
+<file>GameOfLife_UI/qmldir</file>
+<file>GameOfLife_UIContent/App.qml</file>
+<file>GameOfLife_UIContent/Screen01Form.ui.qml</file>
+<file>qtquickcontrols2.conf</file>
+</qresource>
+</RCC>
